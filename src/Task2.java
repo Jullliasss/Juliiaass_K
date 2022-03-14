@@ -3,7 +3,7 @@ import java.util.Scanner;
 import static java.lang.Math.abs;
 
 
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
 
         //enter first number from keyboard
