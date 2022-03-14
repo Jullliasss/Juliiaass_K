@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Julia_QA {
+public class task1 {
     public static void main(String[] args) {
 
        int num;
